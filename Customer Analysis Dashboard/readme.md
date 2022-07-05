@@ -11,9 +11,9 @@
 7. Building the Final Dashboard
 8. Publish the Dashboard to Tableau Public
 
-Link : https://public.tableau.com/app/profile/prutha.shouche/viz/CustomerAnalysisDashboard_16570272679210/Dashboard1
 
 
-
-![image](https://user-images.githubusercontent.com/106730796/177346698-60a4b35f-094e-4d16-ae32-1462873597a7.png)
+### Click on the Static Dashboard image to experiene interractive functions over the Tableau Dashboard.
+<a href="https://public.tableau.com/app/profile/prutha.shouche/viz/CustomerAnalysisDashboard_16570272679210/Dashboard1"><img src="https://user-images.githubusercontent.com/106730796/177351071-6b4fd54d-40a7-42a9-b71a-16f99157613a.png" alt="Customer Analysis Dathboard" 
+												title="Tableau" width="500"></a>
 
