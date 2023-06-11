@@ -21,6 +21,6 @@ https://public.tableau.com/app/profile/prutha.shouche
 <a href="https://public.tableau.com/app/profile/prutha.shouche/viz/NetflixAnalysisDashboard_16864717888180/NetflixAnalysisDashboard"><img src="https://github.com/prutha-shouche/Tableau-Viz/assets/106730796/ac872fc8-1eb8-44e3-92c3-d685bfda2e22" alt="Netflix Analysis Dathboard" 
 												title="Tableau" width="400"></a>
 <br><br>
-<a href="https://public.tableau.com/app/profile/prutha.shouche/viz/DataVisualisationFinalProject_16696131628530/EmployeeAttritionDashboard"><img src="https://github.com/prutha-shouche/Tableau-Viz/blob/main/Employee%20Analysis%20Dashboard/Employee%20Attrition%20Dashboard.png" alt="Employee Attrition Analysis Dathboard" 
+<a href="https://public.tableau.com/app/profile/prutha.shouche/viz/DataVisualisationFinalProject_16696131628530/EmployeeAttritionDashboard"><img src="https://github.com/prutha-shouche/Tableau-Viz/blob/main/Netflix%20Analysis%20Dashboard/Netflix%20Analysis%20Dashboard.png" alt="Employee Attrition Analysis Dathboard" 
 												title="Tableau" width="400"></a>
 
